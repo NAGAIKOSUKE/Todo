@@ -108,7 +108,7 @@ export const Todo = () => {
                   <td><button onClick={() => onClickDelete(index)}>削除</button></td>
                 </tr>
               ))}
-              </tbody>
+              </tbody> //aaaa
             }        
 
         </table>
